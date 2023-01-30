@@ -1,0 +1,7 @@
+#gameArea{
+    border: 4px solid green;
+}
+body{
+    text-align: center;
+    overflow: hidden;
+}
